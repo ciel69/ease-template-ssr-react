@@ -12,10 +12,10 @@ side rendering.
 To start development, follow these steps:
 
 ```
-$ git clone https://github.com/rherwig/template-react-16-ssr.git
-$ cd template-react-16-ssr
-$ npm i
-$ npm start
+$ git clone https://github.com/ciel69/ease-template-ssr-react
+$ cd ease-template-ssr-react
+$ yarn
+$ yarn start
 ```
 
 This fires up the development server on port `3000`.
@@ -34,7 +34,7 @@ In order to build for production and run the finished project, execute
 the following:
 
 ```
-$ npm run build
+$ yarn build
 $ node public/index
 ```
 
